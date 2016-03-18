@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SMART MI</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_text_submit">Submit</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_smartmi">SmartMIActivity</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="ok_txt">Ok</string>
+
+    <!-- Sliding Menu -->
+    <string name="quotes_cap">QUOTES</string>
+    <string name="schedule_cap">SCHEDULE</string>
+    <string name="tasks_cap">TASKS</string>
+    <string name="kpi_dashboards">KPI DASHBOARDS</string>
+    <string name="aging_cap">AGING</string>
+    <string name="add_location">ADD LOCATION</string>
+    <string name="logout">LOGOUT</string>
+    <!-- View Quotes -->
+
+    <string name="quote_ref">Quote Reference</string>
+    <string name="customer_name">Customer Name</string>
+    <string name="project_name">Project Name</string>
+    <string name="sales_engineer">Sales Engineer</string>
+    <string name="quotation_date">Quotation Date</string>
+    <string name="quote_status">Quote Status</string>
+    <string name="product_details_value">Product Details &amp; Value</string>
+    <string name="quote_value">Quote Value</string>
+    <string name="lorem_ipsum">: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>View Quotes</item>
+        <item>Aging</item>
+        <item>Pin Location</item>
+        <item>Schedules</item>
+        <item>Tasks</item>
+        <item>Alerts</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
